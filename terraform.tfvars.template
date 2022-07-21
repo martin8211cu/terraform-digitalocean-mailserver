@@ -1,0 +1,14 @@
+domain_name            = __fillin__
+droplet_size           = __fillin__
+environment            = __fillin__
+image                  = __fillin__
+name                   = __fillin__
+project_name           = __fillin__
+region                 = __fillin__
+ssh_key_file           = __fillin__
+ssh_key_name           = __fillin__
+tag                    = __fillin__
+volume_name            = __fillin__
+volume_size            = __fillin__
+volume_filesystem_type = __fillin__
+volume_description     = __fillin__

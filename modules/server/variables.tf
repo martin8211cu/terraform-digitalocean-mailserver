@@ -1,0 +1,13 @@
+variable "domain_name" {}
+variable "droplet_size" {}
+variable "environment" {}
+variable "image" {}
+variable "name" {}
+variable "region" {}
+variable "ssh_key_file" {}
+variable "ssh_key_name" {}
+variable "tag" {}
+variable "volume_name" {}
+variable "volume_size" {}
+variable "volume_filesystem_type" {}
+variable "volume_description" {}
